@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 Full-Stack Developer | .NET & React<br>Passionate about building seamless backend systems with .NET <br>and bringing ideas to life with React. <br><br><br><br>
-
+🔭 Full-Stack Developer | .NET & React<br>Passionate about building seamless backend systems with .NET <br>and bringing ideas to life with React. <br><br>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mahmood.alsarraj) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mahmoodalsarraj) 
